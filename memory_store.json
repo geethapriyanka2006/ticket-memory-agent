@@ -1,0 +1,11 @@
+{
+  "CUST-001": [
+    "Customer: Acme Logistics | Environment: Windows 11, App v2.3.1, Chrome 126 | Issue: App crashes after login when SSO is enabled. | Resolution: Disabled 'legacy SSO mode' and cleared cached tokens. Crash stopped.",
+    "Customer: Acme Logistics | Environment: Windows 11, App v2.3.1, Chrome 126 | Issue: Export to CSV produces empty file for large reports. | Resolution: Increased export timeout to 120s and switched export mode to 'streaming'.",
+    "User asked: My app keeps crashing after login. what should I do? | Agent responded: I found relevant information about you:\n\nCustomer: Acme Logistics | Environment: Windows 11, App v2."
+  ],
+  "CUST-002": [
+    "Customer: BluePeak Health | Environment: macOS 14, App v2.2.9, Safari 17 | Issue: Users intermittently get 'Session expired' every ~10 minutes. | Resolution: Fixed clock skew by enforcing NTP sync and rotating session keys.",
+    "Customer: BluePeak Health | Environment: macOS 14, App v2.2.9, Safari 17 | Issue: Audit log missing entries for bulk updates. | Resolution: Enabled async audit worker and increased queue retention to 48 hours."
+  ]
+}

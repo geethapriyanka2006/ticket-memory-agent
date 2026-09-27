@@ -1,0 +1,42 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "customer_name": "Acme Logistics",
+    "plan": "Pro",
+    "environment": "Windows 11, App v2.3.1, Chrome 126",
+    "ticket_id": "TCK-1001",
+    "date": "2026-08-12",
+    "issue": "App crashes after login when SSO is enabled.",
+    "resolution": "Disabled 'legacy SSO mode' and cleared cached tokens. Crash stopped."
+  },
+  {
+    "customer_id": "CUST-001",
+    "customer_name": "Acme Logistics",
+    "plan": "Pro",
+    "environment": "Windows 11, App v2.3.1, Chrome 126",
+    "ticket_id": "TCK-1033",
+    "date": "2026-09-03",
+    "issue": "Export to CSV produces empty file for large reports.",
+    "resolution": "Increased export timeout to 120s and switched export mode to 'streaming'."
+  },
+  {
+    "customer_id": "CUST-002",
+    "customer_name": "BluePeak Health",
+    "plan": "Enterprise",
+    "environment": "macOS 14, App v2.2.9, Safari 17",
+    "ticket_id": "TCK-2004",
+    "date": "2026-08-20",
+    "issue": "Users intermittently get 'Session expired' every ~10 minutes.",
+    "resolution": "Fixed clock skew by enforcing NTP sync and rotating session keys."
+  },
+  {
+    "customer_id": "CUST-002",
+    "customer_name": "BluePeak Health",
+    "plan": "Enterprise",
+    "environment": "macOS 14, App v2.2.9, Safari 17",
+    "ticket_id": "TCK-2019",
+    "date": "2026-09-10",
+    "issue": "Audit log missing entries for bulk updates.",
+    "resolution": "Enabled async audit worker and increased queue retention to 48 hours."
+  }
+]
