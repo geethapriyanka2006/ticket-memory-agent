@@ -208,3 +208,21 @@ exit
 
 The agent that remembers. The support that matters.
 
+## Team Articles
+Read our detailed write-ups about building this project:
+
+[How Agent Memory Transformed Our Customer Support]
+Article_Link_1 = https://medium.com/@geethapriyankaankala25/how-agent-memory-transformed-our-customer-support-182c11c4b275
+
+[Why Realistic Data Matters for AI Agents]
+Article_Link_2 = https://medium.com/@sathwikch2006/why-realistic-data-matters-for-ai-agents-our-approach-d0244d737850
+
+[Before and After: How Memory Transforms Support]
+Article_Link_3 = https://medium.com/@aravinddyaga786/before-and-after-how-memory-transforms-the-support-experience-50b5ad3f2e51
+
+[Building an AI Agent with Persistent Memory]
+Article_Link_4 = https://medium.com/@g.shivasai9390/building-an-ai-agent-with-persistent-memory-technical-deep-dive-1aa6307851fc
+
+[Why Your Support Team Needs Agent Memory]
+Article_Link_5 = https://medium.com/@tirumalashivakumar.geck/why-your-support-team-needs-agent-memory-the-business-case-65613dd14e4a
+
