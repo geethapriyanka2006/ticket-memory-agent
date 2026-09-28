@@ -226,3 +226,7 @@ Article_Link_4 = https://medium.com/@g.shivasai9390/building-an-ai-agent-with-pe
 [Why Your Support Team Needs Agent Memory]
 Article_Link_5 = https://medium.com/@tirumalashivakumar.geck/why-your-support-team-needs-agent-memory-the-business-case-65613dd14e4a
 
+## Demo Video
+
+Watch the full demo: https://youtube.com/shorts/8050f4sFURU?si=fOZBM6yqoiLlHYLA
+
